@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ 
 <html>
     <head>
         <meta charset="utf-8">
@@ -22,7 +22,6 @@
     <body>
     
         <h1>Travel to Iceland</h1>
-        <img src="https://en.wikipedia.org/wiki/File:Flag_of_Iceland.svg"alt="flaga Islandii" width="203">
         <h2 id="spis">Spis treści:</h2>
         <ol>
             <li class="lista"><a href="#1">Dlaczego warto odwiedzić tę wyspę</a>
